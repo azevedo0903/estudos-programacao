@@ -1,12 +1,15 @@
 # Estudos de Programação
 
-Repositório com meus estudos em programação.
+Repositório com meus estudos em desenvolvimento back-end.
 
 ## Conteúdo
-- Lógica
-- JavaScript
-- Git
-- Node.js
+
+- [Lógica](./logica)
+- [JavaScript](./javascript)
+- [Node.js](./node)
+- [Git/GitHub](./git-github)
+- [Desafios](./desafios)
 
 ## Objetivo
-Me tornar Desenvolvedor Back-End.
+
+Me preparar para vaga de Desenvolvedor Back-End Júnior.
